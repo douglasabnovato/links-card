@@ -33,3 +33,6 @@
   <img alt="versão 1.0 do projeto" title="#links-card" src="./.github/dark-blue-tela.jpg" width="400px">
   <img alt="versão 1.0 do projeto" title="#links-card" src="./.github/pink-tela.jpg" width="400px">
 </p> 
+
+- Próximo passo
+    - fazer checkbox para alternar a personalização do layout
