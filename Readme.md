@@ -3,7 +3,7 @@
 </h4> 
 
 <h1 align="center">
-    <img alt="versão lts do projeto" title="#meusalao" src="./.github/app-meu-salao.JPG" />
+    <img alt="versão 1.0 do projeto" title="#links-card" src="./.github/standard-tela.jpg">
 </h1>
 
 - Aplicação de um cartão virtual com os links mais importantes que deseja compartilhar.
