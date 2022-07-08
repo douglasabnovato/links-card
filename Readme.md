@@ -15,3 +15,4 @@
 - Etapas
     - construturar a estrutura do html com elementos do layout
     - estilização com as referências de fonts, cores e posicionamento do figma
+    - modo dark (body class="dark") e light (padrão): estratégia de variáveis no css
