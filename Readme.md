@@ -1,4 +1,10 @@
-### Links Card
+<h4 align="center"> 
+	🚧 Links Card 🚀
+</h4> 
+
+<h1 align="center">
+    <img alt="versão lts do projeto" title="#meusalao" src="./.github/app-meu-salao.JPG" />
+</h1>
 
 - Aplicação de um cartão virtual com os links mais importantes que deseja compartilhar.
 
@@ -16,5 +22,14 @@
     - construturar a estrutura do html com elementos do layout
     - estilização com as referências de fonts, cores e posicionamento do figma
     - estratégia de variáveis no css
+        - personalização cor standard
         - personalização cor dark-blue (body class="dark-blue") 
-        - personalização cor pink
+        - personalização cor pink (body class="pink")
+
+- [x] Terminado essa versão da aplicação
+
+<p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1.0 do projeto" title="#links-card" src="./.github/standard-tela.jpg" width="400px">
+  <img alt="versão 1.0 do projeto" title="#links-card" src="./.github/dark-blue-tela.jpg" width="400px">
+  <img alt="versão 1.0 do projeto" title="#links-card" src="./.github/pink-tela.jpg" width="400px">
+</p> 
